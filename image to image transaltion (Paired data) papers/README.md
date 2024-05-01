@@ -1,3 +1,8 @@
+**A Curated selection of papers focused on image-to-image translation using paired data.**
+
+
+
+
 | Model                                     | Paper                                                        | Conference | Paper Link                                     | Code Link                                                    |
 | ----------------------------------------- | ------------------------------------------------------------ | ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
 |                                           | Adaptive Latent Diffusion Model for 3D Medical Image to Image Translation: Multi-modal Magnetic Resonance Imaging Study | WACV 2024  | [arXiv](https://arxiv.org/abs/2311.00265) | [jongdory/ALDM](https://github.com/jongdory/ALDM) |
